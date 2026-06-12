@@ -48,26 +48,26 @@ console.log("After -- :-" , count);
 
 // TASK 6
 
-var marks = 50;
-var temp = 10;
+// var marks = 50;
+// var temp = 10;
 
-console.log("Original value :- ",marks);
-console.log("Operational value :- ",temp);
+// console.log("Original value :- ",marks);
+// console.log("Operational value :- ",temp);
 
-marks += temp;
-console.log("After += :- " , marks);
-var marks = 50;
+// marks += temp;
+// console.log("After += :- " , marks);
+// var marks = 50;
 
-marks = marks-temp;
-console.log("After -= :- " , marks);
-var marks = 50;
+// marks = marks-temp;
+// console.log("After -= :- " , marks);
+// var marks = 50;
 
-marks *= temp;
-console.log("After *= :- " , marks);
-var marks = 50;
+// marks *= temp;
+// console.log("After *= :- " , marks);
+// var marks = 50;
 
-marks = marks/temp;
-console.log("After /= :- " , marks);
+// marks = marks/temp;
+// console.log("After /= :- " , marks);
 
 // TASK 7
 
